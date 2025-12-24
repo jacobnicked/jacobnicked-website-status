@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jacobnicked.site.ico",
     "slug": "jacob-nicked",
     "status": "down",
-    "uptime": "1.10%",
-    "uptimeDay": "1.10%",
-    "uptimeWeek": "1.10%",
-    "uptimeMonth": "1.10%",
-    "uptimeYear": "1.10%",
-    "time": 162,
-    "timeDay": 162,
-    "timeWeek": 162,
-    "timeMonth": 162,
-    "timeYear": 162,
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 136,
+    "timeDay": 136,
+    "timeWeek": 136,
+    "timeMonth": 136,
+    "timeYear": 136,
     "dailyMinutesDown": {
-      "2025-12-24": 0
+      "2025-12-24": 10
     }
   }
 ]
