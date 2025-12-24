@@ -4,7 +4,9 @@ repo: jacobnicked-website-status # The name of this repository
 
 sites:
   - name: Jacob Nicked
-    url: https://www.jacobnicked.site
+    url: https://jacobnicked.site
+  - name: Jacob Nicked Blog
+    url: https://blog.jacobnicked.site
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -21,7 +23,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
