@@ -1,22 +1,40 @@
 [
   {
     "name": "Jacob Nicked",
-    "url": "https://www.jacobnicked.site",
-    "icon": "https://icons.duckduckgo.com/ip3/www.jacobnicked.site.ico",
+    "url": "https://jacobnicked.site",
+    "icon": "https://icons.duckduckgo.com/ip3/jacobnicked.site.ico",
     "slug": "jacob-nicked",
     "status": "up",
-    "uptime": "2.78%",
-    "uptimeDay": "2.78%",
-    "uptimeWeek": "2.78%",
-    "uptimeMonth": "2.78%",
-    "uptimeYear": "2.78%",
-    "time": 168,
-    "timeDay": 168,
-    "timeWeek": 168,
-    "timeMonth": 168,
-    "timeYear": 168,
+    "uptime": "8.92%",
+    "uptimeDay": "8.92%",
+    "uptimeWeek": "8.92%",
+    "uptimeMonth": "8.92%",
+    "uptimeYear": "8.92%",
+    "time": 163,
+    "timeDay": 163,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 163,
     "dailyMinutesDown": {
       "2025-12-24": 41
     }
+  },
+  {
+    "name": "Jacob Nicked Blog",
+    "url": "https://blog.jacobnicked.site",
+    "icon": "https://icons.duckduckgo.com/ip3/blog.jacobnicked.site.ico",
+    "slug": "jacob-nicked-blog",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 118,
+    "timeDay": 118,
+    "timeWeek": 118,
+    "timeMonth": 118,
+    "timeYear": 118,
+    "dailyMinutesDown": {}
   }
 ]
