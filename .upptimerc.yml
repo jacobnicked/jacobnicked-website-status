@@ -17,9 +17,7 @@ status-website:
   logoUrl: https://jacobnicked.site/icon-pfp.jpg
   favicon: https://jacobnicked.site/icon-pfp.jpg
   name: Jacob Nicked Status
-  links:
-  - rel: stylesheet
-      href: https://status.jacobnicked.site/themes/style.css
+  theme: dark
   assignees:
     - jacobnicked
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
