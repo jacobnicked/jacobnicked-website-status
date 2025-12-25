@@ -17,7 +17,6 @@ status-website:
   logoUrl: https://jacobnicked.site/icon-pfp.jpg
   favicon: https://jacobnicked.site/icon-pfp.jpg
   name: Jacob Nicked Status
-  theme: style
   links:
   - rel: stylesheet
       href: https://status.jacobnicked.site/themes/style.css
