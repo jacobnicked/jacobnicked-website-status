@@ -22,14 +22,18 @@ status-website:
   theme: dark
   assignees:
     - jacobnicked
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from my [GitHub repository](https://github.com/jacobnicked/jacobnicked-website-status)
+  introTitle: "Uptime monitor and status page"
+  introMessage: Sample status page which uses **real-time** data from my [GitHub repository](https://github.com/jacobnicked/jacobnicked-website-status)
   # customHeadHtml: ""
   navbar:
     - title: Home
       href: https://jacobnicked.site
     - title: Status
       href: /
+    - title: Blog
+      href: https://blog.jacobnicked.site
+    - title: Tech
+      href: https://tech.jacobnicked.site
     - title: GitHub
       href: https://github.com/$OWNER
   
