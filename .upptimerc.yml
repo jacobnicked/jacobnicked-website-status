@@ -7,6 +7,8 @@ sites:
     url: https://jacobnicked.com
   - name: Jacob Nicked Blog
     url: https://blog.jacobnicked.com
+  - name: Jacob Nicked Legacy
+    url: https://legacy.jacobnicked.com
   - name: Jacob Nicked Tech
     url: https://tech.jacobnicked.com
 
@@ -32,6 +34,8 @@ status-website:
       href: /
     - title: Blog
       href: https://blog.jacobnicked.com
+    - title: Legacy
+      href: https://legacy.jacobnicked.com
     - title: Tech
       href: https://tech.jacobnicked.com
     - title: GitHub
