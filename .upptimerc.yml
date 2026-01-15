@@ -40,7 +40,13 @@ status-website:
       href: https://tech.jacobnicked.com
     - title: GitHub
       href: https://github.com/$OWNER
-  
+  metaTags:
+    - name: "og:title"
+      content: "Jacob Nicked Status"
+    - name: "og:description"
+      content: "Real-time uptime monitoring for my services"
+    - name: "og:image"
+      content: "https://jacobnicked.com/icon-pfp.jpg"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
