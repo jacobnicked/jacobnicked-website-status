@@ -26,7 +26,7 @@ status-website:
     - jacobnicked
   introTitle: "Uptime monitor and status page"
   introMessage: Sample status page which uses **real-time** data from my [GitHub repository](https://github.com/jacobnicked/jacobnicked-website-status)
-  # customHeadHtml: ""
+  customHeadHtml: "<link href="https://mas.to/@jacobnicked" rel="me">"
   navbar:
     - title: Home
       href: https://jacobnicked.com
@@ -47,6 +47,8 @@ status-website:
       content: "Real-time uptime monitoring for my services"
     - name: "og:image"
       content: "https://jacobnicked.com/icon-pfp.jpg"
+    - name: "og:url"
+      content: "https://status.jacobnicked.com"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
