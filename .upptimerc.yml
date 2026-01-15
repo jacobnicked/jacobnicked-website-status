@@ -26,7 +26,6 @@ status-website:
     - jacobnicked
   introTitle: "Uptime monitor and status page"
   introMessage: Sample status page which uses **real-time** data from my [GitHub repository](https://github.com/jacobnicked/jacobnicked-website-status)
-  customHeadHtml: "<link href="https://mas.to/@jacobnicked" rel="me">"
   navbar:
     - title: Home
       href: https://jacobnicked.com
