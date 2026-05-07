@@ -18,14 +18,12 @@ status-website:
   cname: status.jacobnicked.com
   user-agent: jacobnicked
   # baseUrl: /your-repo-name
-  logoUrl: https://jacobnicked.com/icon-pfp.jpg
-  favicon: https://jacobnicked.com/icon-pfp.jpg
+  logoUrl: https://jacobnicked.com/favicon.jpg
+  favicon: https://jacobnicked.com/favicon.jpg
   name: Jacob Nicked Status
   theme: dark
   assignees:
     - jacobnicked
-  introTitle: "Uptime monitor and status page"
-  introMessage: Sample status page which uses **real-time** data from my [GitHub repository](https://github.com/jacobnicked/jacobnicked-website-status)
   navbar:
     - title: Home
       href: https://jacobnicked.com
@@ -37,17 +35,23 @@ status-website:
       href: https://legacy.jacobnicked.com
     - title: Tech
       href: https://tech.jacobnicked.com
-    - title: GitHub
-      href: https://github.com/$OWNER
   metaTags:
+    - name: "description"
+      content: "Real-time uptime monitoring for my websites"
     - name: "og:title"
       content: "Jacob Nicked Status"
     - name: "og:description"
-      content: "Real-time uptime monitoring for my services"
+      content: "Real-time uptime monitoring for my websites"
     - name: "og:image"
-      content: "https://jacobnicked.com/icon-pfp.jpg"
+      content: "https://jacobnicked.com/favicon.jpg"
     - name: "og:url"
       content: "https://status.jacobnicked.com"
+    - name: "telegram:channel"
+      content: "@jacobnicked"
+    - name: "twitter:site"
+      content: "@jacobnicked"
+    - name: "twitter:domain"
+      content: "jacobnicked.com"
   links:
     - rel: me
       href: https://mas.to/@jacobnicked
@@ -183,6 +187,8 @@ status-website:
       href: https://www.wattpad.com/user/jacobnicked  
     - rel: me  
       href: https://digg.com/@jacobnicked
+    - rel: me
+      href: https://catodon.rocks/@jacobnicked
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
