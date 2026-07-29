@@ -7,8 +7,6 @@ sites:
     url: https://jacobnicked.com
   - name: Jacob Nicked Blog
     url: https://blog.jacobnicked.com
-  - name: Jacob Nicked Legacy
-    url: https://legacy.jacobnicked.com
   - name: Jacob Nicked Tech
     url: https://tech.jacobnicked.com
 
@@ -19,7 +17,7 @@ status-website:
   user-agent: jacobnicked
   # baseUrl: /your-repo-name
   logoUrl: https://jacobnicked.com/favicon.jpg
-  favicon: https://jacobnicked.com/favicon.jpg
+  favicon: https://jacobnicked.com/files/images/logos/jn-logo-circle.svg
   name: Jacob Nicked Status
   theme: dark
   assignees:
@@ -31,8 +29,6 @@ status-website:
       href: /
     - title: Blog
       href: https://blog.jacobnicked.com
-    - title: Legacy
-      href: https://legacy.jacobnicked.com
     - title: Tech
       href: https://tech.jacobnicked.com
   metaTags:
@@ -59,6 +55,10 @@ status-website:
   links:
     - rel: me
       href: https://mas.to/@jacobnicked
+    - rel: me
+      href: https://vernissage.photos/@jacobnicked
+    - rel: me
+      href: https://piefed.social/u/jacobnicked
     - rel: me 
       href: https://www.instagram.com/jacobnicked
     - rel: me 
@@ -118,15 +118,11 @@ status-website:
     - rel: me  
       href: https://www.youtube.com/@jacobnicked  
     - rel: me  
-      href: https://www.youtube.com/@jacobnickedpl  
-    - rel: me  
       href: https://www.youtube.com/@sunniehauz  
     - rel: me  
       href: https://www.twitch.tv/jacobnicked  
     - rel: me  
       href: https://www.jacobnicked.tumblr.com  
-    - rel: me  
-      href: https://www.xiaohongshu.com/user/profile/67868f230000000008018eba  
     - rel: me  
       href: https://mas.to/@jacobnicked  
     - rel: me  
@@ -177,20 +173,6 @@ status-website:
       href: https://www.telegram.me/sunniehauz  
     - rel: me  
       href: https://friendica.world/profile/jacobnicked  
-    - rel: me  
-      href: https://substack.com/@jacobnicked  
-    - rel: me  
-      href: https://pronouns.page/@jacobnicked  
-    - rel: me  
-      href: https://en.pronouns.page/@jacobnicked  
-    - rel: me  
-      href: https://pl.pronouns.page/@jacobnicked  
-    - rel: me  
-      href: https://zaimki.pl/@jacobnicked  
-    - rel: me  
-      href: https://www.wattpad.com/user/jacobnicked  
-    - rel: me  
-      href: https://digg.com/@jacobnicked
     - rel: me
       href: https://catodon.rocks/@jacobnicked
 
