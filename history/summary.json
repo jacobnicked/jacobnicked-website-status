@@ -40,17 +40,19 @@
     "url": "https://tech.jacobnicked.com",
     "icon": "https://icons.duckduckgo.com/ip3/tech.jacobnicked.com.ico",
     "slug": "jacob-nicked-tech",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 554,
-    "timeWeek": 201,
-    "timeMonth": 184,
-    "timeYear": 197,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "93.71%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.97%",
+    "time": 198,
+    "timeDay": 441,
+    "timeWeek": 217,
+    "timeMonth": 188,
+    "timeYear": 198,
+    "dailyMinutesDown": {
+      "2026-08-08": 91
+    }
   }
 ]
